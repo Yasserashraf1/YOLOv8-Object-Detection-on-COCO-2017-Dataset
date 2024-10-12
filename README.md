@@ -18,11 +18,9 @@ OpenCV is used to load and process the images, converting them from BGR (used by
 Detected objects are plotted on the images, with bounding boxes drawn around them and labels indicating the detected class and confidence score.
 
 ## Directory Structure
-/kaggle/input/coco-2017-dataset/
+/kaggle/input/coco-2017-dataset/  
 ├── coco2017/  
-
     ├── train2017/     # Training images  
-    
     ├── test2017/      # Test images  
     
 
@@ -37,6 +35,6 @@ Detected objects are plotted on the images, with bounding boxes drawn around the
 The project successfully detects objects in random images from the COCO 2017 dataset using YOLOv8. Bounding boxes and labels for each detected object are displayed with confidence scores. Both training and test images were evaluated to showcase the model's detection capabilities.
 
 ## References
-[YOLOv8 Documentation](https://github.com/ultralytics/ultralytics)
-[COCO Dataset](https://www.kaggle.com/datasets/sabahesaraki/2017-2017)
+* [YOLOv8 Documentation](https://github.com/ultralytics/ultralytics)
+* [COCO Dataset](https://www.kaggle.com/datasets/sabahesaraki/2017-2017)
 
