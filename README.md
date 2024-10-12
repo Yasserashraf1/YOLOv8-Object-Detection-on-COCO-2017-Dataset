@@ -32,3 +32,8 @@ Detected objects are plotted on the images, with bounding boxes drawn around the
 
 ## Results
 The project successfully detects objects in random images from the COCO 2017 dataset using YOLOv8. Bounding boxes and labels for each detected object are displayed with confidence scores. Both training and test images were evaluated to showcase the model's detection capabilities.
+
+## References
+[YOLOv8 Documentation](https://github.com/ultralytics/ultralytics)
+[COCO Dataset](https://www.kaggle.com/datasets/sabahesaraki/2017-2017)
+
