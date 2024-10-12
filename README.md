@@ -18,12 +18,12 @@ OpenCV is used to load and process the images, converting them from BGR (used by
 Detected objects are plotted on the images, with bounding boxes drawn around them and labels indicating the detected class and confidence score.
 
 ## Directory Structure
-'''/kaggle/input/coco-2017-dataset/  
+```
+/kaggle/input/coco-2017-dataset/  
 ├── coco2017/
     ├── train2017/     # Training images
-    ├── test2017/      # Test images '''
-
-    
+    ├── test2017/      # Test images
+```
     
 
 ## Dependencies
