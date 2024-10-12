@@ -19,9 +19,12 @@ Detected objects are plotted on the images, with bounding boxes drawn around the
 
 ## Directory Structure
 /kaggle/input/coco-2017-dataset/
-├── coco2017/
-    ├── train2017/     # Training images
-    ├── test2017/      # Test images
+├── coco2017/  
+
+    ├── train2017/     # Training images  
+    
+    ├── test2017/      # Test images  
+    
 
 ## Dependencies
 * Python 3.x
